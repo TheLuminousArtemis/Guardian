@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "908897613187",
+    "project_id": "guardian-project-d76a3",
+    "storage_bucket": "guardian-project-d76a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908897613187:android:da2639ebbdbcab0265b2b6",
+        "android_client_info": {
+          "package_name": "com.guard.guardian_traffic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnIoHb18mo7SqA0-suN2SciqgzCuE-oVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
